@@ -1,21 +1,21 @@
 [
     {
-        "id": "other-project-post",
-        "title": "Part of Speech Tagger",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/post",
-        "demo": "https://hrishikeshpaul.github.io/post/",
-        "tags": ["Python", "Vue", "Flask", "Artificial Intelligence", "Language Processing"],
-        "description": "Post is a simple algorithm that was developed to tag a word in a sentence corresponding to its part of speech. The algorithm makes of a probabilistic approach along with some randomness, together which forms the basis of an algorithm called Gibbs Sampling.",
-        "image": "/assets/other-projects/post.webp",
-        "jpg": "/assets/other-projects/post.jpeg"
+        "id": "other-project-number-plate",
+        "title": "Number Plate Recognition",
+        "year": "Jan 2024 - May 2024",
+        "github": "https://github.com/ambicuity/Number-Plate",
+        "demo": "https://ambicuity.github.io/Number-Plate/",
+        "tags": ["Python", "Computer Vision", "OpenCV", "Machine Learning", "Image Processing"],
+        "description": "This project focuses on the development of a robust number plate detection system using computer vision and machine learning techniques. It utilizes OpenCV for image processing and applies various algorithms to accurately detect and recognize license plates from vehicle images. The system is designed to be efficient and scalable, making it suitable for real-time applications such as traffic monitoring and automated toll collection.",
+        "image": "/assets/other-projects/npr.webp",
+        "jpg": "/assets/other-projects/npr.jpeg"
 
     },
     {
         "id": "other-project-noq",
         "title": "NoQ Job Portal",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/noq",
+        "year": "September 2023 - Dec 2023",
+        "github": "https://github.com/ambicuity/Job_Portal",
         "demo": "http://noq-client.herokuapp.com/login",
         "tags": ["Vue", "NodeJS", "JavaScript", "MongoDB", "Heroku", "Agile", "Sockets", "JIRA"],
         "description": "NoQ is a tool which allows for both employers and students to skip the hassle seen in modern day career fairs, while effectively pairing up students with employees based on various factors.",
@@ -24,41 +24,41 @@
         "jpg": "/assets/other-projects/noq.jpeg"
     },
     {
-        "id": "other-project-bank-compare",
-        "title": "Experience Design Anaysis",
-        "year": "Aug 2019 - Dec 2019",
-        "tags": ["UX Design", "Analysis", "Adobe XD", "Mockups"],
-        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
-        "readMore": "https://drive.google.com/file/d/1GY2WmRZgvBgFx6OlAMcAj8_DQVmS5VBw/view",
-        "image": "/assets/other-projects/bank.webp",
-        "jpg": "/assets/other-projects/bank.jpeg"
+        "id": "other-project-hospital-management-system",
+        "title": "Hospital Management System",
+        "year": "September 2023 - Dec 2023",
+        "tags": ["System Design", "Database Management", "UI/UX Design", "Healthcare Analytics"],
+        "description": "This project focuses on creating a comprehensive Hospital Management System that streamlines patient care, appointment scheduling, medical records management, and billing processes. It involves designing an intuitive user interface for both patients and healthcare providers, developing a secure database to store sensitive information, and implementing analytics for better healthcare outcomes.",
+        "readMore": "https://github.com/riteshr19/Health-Monitoring-System",
+        "image": "/assets/other-projects/hms.webp",
+        "jpg": "/assets/other-projects/hms.jpg"
     },
     {
-        "id": "other-project-bunder",
-        "title": "Bunder",
-        "year": "Jan 2020 - Apr 2020",
-        "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
-        "description": "An MVP Proposal - Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them.",
-        "readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",
-        "image": "/assets/other-projects/bunder.webp",
-        "jpg": "/assets/other-projects/bunder.jpeg"
+        "id": "other-project-geographic-analysis-and-pathfinding-system",
+        "title": "Geographic Analysis and Pathfinding System",
+        "year": "September 2023 - Dec 2023",
+        "tags": ["GIS", "Pathfinding Algorithms", "Data Analysis", "User Experience Design"],
+        "description": "This project aims to develop a sophisticated Geographic Analysis and Pathfinding System that leverages advanced GIS technologies and pathfinding algorithms to facilitate efficient route planning and geographical data analysis. It focuses on creating a user-friendly interface for users to interact with complex geographic data, perform spatial analysis, and find optimal paths for various applications such as urban planning, emergency response, and outdoor navigation.",
+        "readMore": "https://github.com/EC504-Pathfinding/geo-data-analysis",
+        "image": "/assets/other-projects/gaps.webp",
+        "jpg": "/assets/other-projects/gaps.jpg"
     },
     {
         "id": "other-project-suicide-analyzer",
         "title": "Suicide Analyzer",
         "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
         "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
-        "github": "https://github.com/hrishikeshpaul/whodata",
+        "github": "https://github.com/ambicuity/who_data",
         "image": "/assets/other-projects/suicide-analyzer.webp",
         "jpg": "/assets/other-projects/suicide-analyzer.jpeg"
     },
     {
-        "id": "other-project-nutricare",
-        "title": "Nutricare",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
-        "readMore": "https://angel.co/projects/576300-nutricare",
-        "image": "/assets/other-projects/nutricare.webp",
-        "jpg": "/assets/other-projects/nutricare.jpeg"
+        "id": "other-project-quantumNetScript-Architectural-Augmentation",
+        "tags": ["Python", "Network Automation", "Load Balancing", "LAMP Stack", "CDN Optimization"],
+        "title": "QuantumNetScript-Architectural-Augmentation",
+        "description": "QuantumNetScript-Architectural-Augmentation is a network automation toolkit designed to enhance and automate various aspects of network architecture. It includes the DynamicLoadBalancer class for optimal traffic distribution, the LAMPStackAutomation class for managing LAMP stack lifecycles, and the CDNOptimizationScript class for optimizing Content Delivery Networks. This toolkit aims to streamline network operations, ensuring high availability and performance.",
+        "readMore": "https://github.com/ambicuity/QuantumNetScript-Architectural-Augmentation",
+        "image": "/assets/other-projects/qaa.webp",
+        "jpg": "/assets/other-projects/qaa.jpeg"
     }
 ]

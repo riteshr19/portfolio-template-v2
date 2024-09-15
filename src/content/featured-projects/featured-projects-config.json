@@ -1,34 +1,33 @@
 [
     {
         "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
+        "title": "track CTA Maps",
+        "year": "November 2023 - Present",
+        "location": "Boston University",
         "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
+        "github": "https://github.com/ambicuity/trackCTA",
         "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
+        "description": "An internationalized web app designed to track and predict Chicago Transit Authority (CTA) buses and trains in real-time.",
         "image": "/assets/featured-projects/trackcta.webp",
         "jpg": "/assets/featured-projects/trackcta.jpeg"
     },
     {
-        "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
+        "id": "number-plate-recognition",
+        "title": "Number Plate Recognition",
+        "year": "Jan 2024 - May 2024",
+        "location": "Boston University",
+        "github": "https://github.com/ambicuity/Number-Plate",
+        "demo": "https://ambicuity.github.io/Number-Plate/",
+        "tags": ["Python", "Computer Vision", "OpenCV", "Machine Learning", "Image Processing"],
+        "description": "This project focuses on the development of a robust number plate detection system using computer vision and machine learning techniques. It utilizes OpenCV for image processing and applies various algorithms to accurately detect and recognize license plates from vehicle images. The system is designed to be efficient and scalable, making it suitable for real-time applications such as traffic monitoring and automated toll collection.",
+        "image": "/assets/other-projects/npr.webp",
+        "jpg": "/assets/other-projects/npr.jpeg"
     },
     {
         "id": "featured-project-scrapbook",
         "title": "Scrapbook",
-        "year": "Jan 2021 - May 2021",
-        "location": "Indiana University",
+        "year": "Jan 2024 - May 2024",
+        "location": "Boston University",
 
         "tags": [
             "Angular 11",
@@ -44,20 +43,20 @@
             "GCP"
         ],
         "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
+        "github": "https://github.com/ambicuity/Scrap-Book.git",
         "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
-        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
+        "readMore": "https://medium.com/@riteshrana36/scrapbook-a-microservice-image-sharing-app-d83d96e15ed2",
         "image": "/assets/featured-projects/scrapbook.webp",
         "jpg": "/assets/featured-projects/scrapbook.jpeg"
     },
     {
         "id": "featured-project-measure-ux",
-        "location": "Indiana University",
-        "title": "Measuring User Experience",
-        "year": "Sep 2020 - Dec 2020",
+        "location": "Boston University",
+        "title": "Evaluating User Experience",
+        "year": "Sep 2023 - Dec 2023",
         "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
         "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
-        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
+        "readMore": "https://medium.com/@riteshrana36/evaluating-user-experience-case-study-on-instagram-9b9f537e62fd",
         "image": "/assets/featured-projects/measure-ux.webp",
         "jpg": "/assets/featured-projects/measure-ux.jpeg"
     }

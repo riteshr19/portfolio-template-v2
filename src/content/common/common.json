@@ -1,30 +1,34 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Ritesh Rana",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "RR",
+        "desktop": "Ritesh Rana"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
+    "mainPicture": "/assets/RR.webp",
+    "mainPictureJPG": "/assets/RR.jpeg",
+    "pronunciation": "/r ih - t eh sh/",
     "audioFile": "/assets/name-pro.mp3",
-    "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
-    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "cssVarPrefix": "rr",
+    "email": "jobs@riteshrana.engineer",
+    "linkedin": "https://www.linkedin.com/in/riteshengineer/",
+    "github": "https://github.com/ambicuity",
+    "resume": "https://drive.google.com/file/d/1phXpWzPPzK9FyysfxO3kfCSFZlOdPq24/view?usp=sharing",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
-        },
+            "link": "https://www.linkedin.com/in/riteshengineer/"
+        },                
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/ambicuity"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:jobs@riteshrana.engineer"
+        },
+        {
+            "type": "whatsapp",
+            "link": "https://wa.me/+18579192343?text=Hi%2C%0AI%20would%20like%20to%20connect%20with%20you." 
         }
     ]
 }

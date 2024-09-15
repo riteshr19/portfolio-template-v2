@@ -2,56 +2,67 @@
     "educations": [
         {
             "id": "edu-1",
-            "school": "Indiana University",
-            "degree": "Master of Science in Computer Science",
-            "duration": "Aug 2019 - May 2021",
+            "school": "Boston University",
+            "degree": "Master in Systems Engineering",
+            "duration": "Aug 2023 - December 2024",
             "content": [
-                "GPA: 4/4",
-                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
+                "GPA: 3.6/4",
+                "Courses: Deep Learning, Optimisation Thoery in Machine Learning, Introduction to Image Video Computing, Tools for Data Science"
             ]
         },
         {
             "id": "edu-2",
-            "school": "Manipal University",
-            "degree": "Bachelors in Computer Engineering",
-            "duration": "Aug 2015 - Jul 2019",
+            "school": "Narsee Monjee Institute of Management Studies",
+            "degree": "MBA Business Intelligence & Analytics",
+            "duration": "July 2018 - Jul 2023",
             "content": [
-                "GPA: 8/10",
-                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
+                "GPA: 3.56/4",
+                "Courses: People Analytics, Predictive Analytics, Data Mining, Big Data, Business Intelligence"
+            ]
+        },
+        {
+            "id": "edu-3",
+            "school": "Narsee Monjee Institute of Management Studies",
+            "degree": "Bachelors in Information Technology Hons. AIML",
+            "duration": "July 2018 - Jul 2023",
+            "content": [
+                "GPA: 3.56/4",
+                "Courses: Advance Data Structures, OOP, Algorithms, Software Engineering, Artificial Intelligence"
             ]
         }
     ],
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Reputation",
-            "position": "Software Engineer (Frontend)",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Tata Consultancy Services",
+            "position": "Research and Innovation",
+            "duration": "May 2022 - Oct 2022",
             "description": [
-                "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
-                "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
-                "Spearheaded the work on multiple reports for 5 priority clients to provide additional functionalities."
+                "Led the strategic integration of emerging technologies (Space Tech, Metaverse, Decentralized Finance, NFT, Generative AI) into the company's roadmap while aligning with TCS's focus on societal well-being, demonstrating innovation and strategic planning leadership.",
+                "Managed and directed data-driven decision-making by leveraging data analytics and software engineering expertise, optimizing data pipelines, and effectively collaborating cross-functionally to lead teams toward strategic outcomes.",
+                "Championed continuous learning and tech mastery within the organisation by promoting proficiency in diverse programming languages and frameworks, cultivating a culture of ongoing learning, and providing leadership in adapting to industry trends."
             ]
         },
         {
             "id": "exp-2",
-            "company": "CNS (NIH), Indiana University",
-            "position": "Software Engineer",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "1Rivet",
+            "position": "Data Analyst, Internship",
+            "duration": "August 2021 - March 2022",
             "description": [
-                "Developed state of the art visualization tools for researchers and doctors to envision large biological datasets using ​Angular 11​, Node & Vega.​",
-                "Devised an algorithm to compute statistics that highlight anomalies in the data and displayed them on an intuitive interface.",
-                "Created detailed UX flows, experience maps, wire-frames and conducted interviews across various biological consortia to enhance user experience."
+                "Leveraged data-mining tools to aggregate insights, extracting valuable decision-making information from diverse sources, resulting in a 25% increase in data-driven decision accuracy.​",
+                "Evaluated data from primary and secondary sources, guaranteeing data integrity and efficient database management, while managing more than 500 GB of data with a 96% accuracy rate.",
+                "Produced strategic management reports showcasing trends, patterns, and predictive analyses, contributing to a 15% improvement in proactive decision-making across the organization."
             ]
         },
         {
             "id": "exp-3",
-            "company": "Skylark Drones",
-            "position": "Software Engineer Intern",
-            "duration": "Jan 2019 - Jun 2019",
+            "company": "Kent ITS PVT LTD",
+            "position": "Machine Learning Engineer, Internship",
+            "duration": "May 2021 - July 2021",
             "description": [
-                "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
-                "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
+                "Optimized 'Video Incident Detection System (VIDS)' module performance, realizing a 30% enhancement, leading to more effective real-time incident detection.​",
+                "Streamlined interdisciplinary collaboration, reducing integration time by 20%, and facilitating the seamless integration of sensor data for enhanced 'VIDS' precision and robustness.",
+                "Leveraged AI in directing comprehensive testing processes, ensuring a superior software product. Attained a 98% reliability rate through advanced AI-driven unit, integration testing, and user acceptance testing for each 'VIDS' module."
             ]
         }
     ],
@@ -68,7 +79,16 @@
                 "SQL",
                 "Shell",
                 "React Native",
-                "Vega (D3.js)"
+                "Vega (D3.js)",
+                "R",
+                "PI/SQL",
+                "Julia",
+                "HTML",
+                "PHP",
+                "Jira",
+                "PowerBI",
+                "Github",
+                "BigQuery"
             ]
         },
         {
@@ -79,7 +99,6 @@
             "title": "Databases",
             "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
         },
-
         {
             "title": "OS & Tools",
             "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
@@ -95,18 +114,36 @@
                 "Adobe XD",
                 "Illustrator"
             ]
+        },
+        {
+            "title": "Data Analysis and Machine Learning",
+            "tools": [
+                "Pandas",
+                "Numpy",
+                "Tensorflow",
+                "Pytorch",
+                "Tableau",
+                "NLTK",
+                "Apache Scikit-Learn",
+                "Docker"
+            ]
         }
+    ],
+    "certifications": [
+        "IBM Certified AIML Graduate",
+        "Google IT Automation",
+        "Developing Cloud Native Applications"
     ],
     "blog": [
         {
             "id": "blog-1",
             "title": "A beginner's guide to github",
-            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
+            "link": ""
         },
         {
             "id": "blog-2",
             "title": "User Experience Design – A little more than just design",
-            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+            "link": ""
         }
     ]
 }

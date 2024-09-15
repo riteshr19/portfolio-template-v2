@@ -24,7 +24,7 @@
 Close repository
 
 ```shell
-$ git clone https://github.com/hrishikeshpaul/portfolio-template-v2.git
+$ git clone https://github.com/ritesh1904/portfolio-template-v2.git
 ```
 
 To install the node packages used in the project:

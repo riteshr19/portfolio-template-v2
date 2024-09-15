@@ -26,7 +26,7 @@ export const Footer: FC = () => {
                 </Heading>
             </Flex>
             <Text>
-                If you want to know more about my experiences and journey, or just talk in general, get in touch! ✌️
+                For any Business Enquiries, feel free to get in touch! ✌️
             </Text>
             <Box pt="16">
                 <Socials delay={100} exclude={["mail"]} />
@@ -39,7 +39,7 @@ export const Footer: FC = () => {
                 justifyContent={{ base: "center", md: "space-between" }}
                 direction={{ base: "column", md: "row" }}
             >
-                <Text>This site is hand-crafted, with care by me.</Text>
+                <Text>This site has been carefully hand-crafted by me, Ritesh Rana.</Text>
                 <Text>&copy; {new Date().getFullYear()} All rights reserved.</Text>
             </Flex>
         </>
